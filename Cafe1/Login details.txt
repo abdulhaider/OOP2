@@ -1,0 +1,7 @@
+Manager
+username : Haider 
+password: 123
+
+Sales
+username: Alex
+password: 112

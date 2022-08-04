@@ -1,0 +1,14 @@
+E:\C-sharp\Spring 2022\cafe\Cafe1\Cafe1\bin\Debug\Cafe1.exe.config
+E:\C-sharp\Spring 2022\cafe\Cafe1\Cafe1\bin\Debug\Cafe1.exe
+E:\C-sharp\Spring 2022\cafe\Cafe1\Cafe1\bin\Debug\Cafe1.pdb
+E:\C-sharp\Spring 2022\cafe\Cafe1\Cafe1\obj\Debug\Cafe1.csprojAssemblyReference.cache
+E:\C-sharp\Spring 2022\cafe\Cafe1\Cafe1\obj\Debug\Cafe1.Form1.resources
+E:\C-sharp\Spring 2022\cafe\Cafe1\Cafe1\obj\Debug\Cafe1.Properties.Resources.resources
+E:\C-sharp\Spring 2022\cafe\Cafe1\Cafe1\obj\Debug\Cafe1.csproj.GenerateResource.cache
+E:\C-sharp\Spring 2022\cafe\Cafe1\Cafe1\obj\Debug\Cafe1.csproj.CoreCompileInputs.cache
+E:\C-sharp\Spring 2022\cafe\Cafe1\Cafe1\obj\Debug\Cafe1.exe
+E:\C-sharp\Spring 2022\cafe\Cafe1\Cafe1\obj\Debug\Cafe1.pdb
+E:\C-sharp\Spring 2022\cafe\Cafe1\Cafe1\obj\Debug\Cafe1.dashboard.resources
+E:\C-sharp\Spring 2022\cafe\Cafe1\Cafe1\obj\Debug\Cafe1.welcome.resources
+E:\C-sharp\Spring 2022\cafe\Cafe1\Cafe1\obj\Debug\Cafe1.PlaceOrder.resources
+E:\C-sharp\Spring 2022\cafe\Cafe1\Cafe1\obj\Debug\Cafe1.Sales.resources
